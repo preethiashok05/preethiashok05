@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - 👨‍💻 I am a Sophomore at Sir M. Visvesvaraya Institute of Technology.
-- 🌱 I’m currently learning Django and exploring the various frameworks.
+- 🌱 I’m currently learning Django and exploring various frameworks.
 - 📫 How to reach me: preethiashok05@gmial.com
 
 <br/>

@@ -14,11 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋
 
 <h1 align="center"><b> I'm Preethi Ashok</b></h1>
-I am a Sophomore at Sir M. Visvesvaraya Institute of Technology.
-I am currently learning Django and exploring the various technologies and frameworks that are used in IT industry.I also like Problem Solving.
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=preethiashok05" alt="preethiashok" /> </p>  -->
 
+&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
+- 👨‍💻 I am a Sophomore at Sir M. Visvesvaraya Institute of Technology.
+- 🌱 I’m currently learning Django and exploring the various frameworks.
+- 📫 How to reach me: preethiashok05@gmial.com
 
 <br/>
 

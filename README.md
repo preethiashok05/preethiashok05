@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"><b> I'm Preethi Ashok</b></h1>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preethiashok05" alt="preethiashok" /> </p>  
+
 
 &nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - 👨‍💻 I am a Sophomore at Sir M. Visvesvaraya Institute of Technology.
